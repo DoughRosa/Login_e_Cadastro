@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    height: 7vh;
+}
+
+main {
+    height: 90vh;
+}
+
+a {
+    margin-left: 0.2vw;
+}
+
+.corNavegacao {
+    background-color: rgb(86, 103, 203);
+}
+
+.corBotao {
+    background-color: rgb(86, 103, 203);
+    border-radius: 0.2rem;
+    width: 12vw;
+    height: 4vh;
+    border: 0px;
+}
+
+.signButton{
+    width: 100%;
+}
+
